@@ -1,0 +1,1 @@
+{"version":3, "file":"page_26496be63d8e295f73e9650693323fe8.js", "sections": [{"offset": { "line": 2, "column": 0 }, "map": {"version":3,"file":"/bitrix/components/bitrix/tasks.interface.topmenu/templates/.default/script.min.js","sources":["/bitrix/components/bitrix/tasks.interface.topmenu/templates/.default/script.js"],"names":["BX","namespace"],"mappings":"AAAAA,GAAGC,UAAU"}}]}

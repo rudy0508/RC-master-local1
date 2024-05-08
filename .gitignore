@@ -1,0 +1,14 @@
+#No almacenamos la carpeta Bitrix en GIT
+#/bitrix/*
+
+#Pero no las plantillas y los componentes que no son bitrix
+!/bitrix/plantillas
+!/bitrix/componentes
+/bitrix/componentes/bitrix
+
+# descomentar si es necesario, pero es mejor no almacenar dichos datos en GIT
+#!/bitrix/php_interface/
+#!/bitrix/php_interface/dbconn.php
+
+#Store Upload tampoco tiene sentido
+/upload/
